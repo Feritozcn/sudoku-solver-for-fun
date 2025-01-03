@@ -1,4 +1,4 @@
-##Sudoku Solver for Fun
+Sudoku Solver for Fun
 Key Details:
 Worst-case Time Complexity:
 𝑂
